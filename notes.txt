@@ -1,0 +1,18 @@
+hum log ko kaafi saara kaam karna padta hai express setup krne mein iska matlab har baar jab ham naya project banayaege to har bar fir se utna hi kaam karn apadega
+matlab ki pura code likho and sab kuch setup karo
+is time ko bacha skte hian with the help of EXPRES GENERATOR
+use express generator and it will make the folder structure for you and it will also write the basic code for the project
+
+
+💜express generator ek folder bana kr deta hai, jiska matlab aapko khud se folder nahi banan na padega, to express generator saare files ko isi folde rmein daalke dega, 
+
+steps to use express generator
+1) sabse pehle jivan mein ek bar laptop par install karo globally - npm i express-generator -g
+2) to create new app anywhere:
+3) open cmd move to desktop
+4) create new app:
+5) express appname --view=ejs
+6) now use two commands
+7) cd appname
+8) npm i
+9) open it on vs code
