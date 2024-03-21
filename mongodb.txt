@@ -4,3 +4,29 @@ database ke 2 prakar ke hote hain:
   - relational - sql
   - non-relational - mongoDB
 
+
+(in table diagram)
+
+db setup kiya to mogodb mein DB formation hoga
+model ka stup kiya to collection banega
+schema bnaya to doucments bnega
+
+
+DATABASE
+har naye app ka data store hoga storage mein, par usey directly rakhene ki jageh ek container mein rakhein, us container mein sirf us app ka data aayega
+
+
+MODELS
+models(code) => collections(DB)
+
+
+SCHEMA(code) => doucments(DB)
+
+ek app ka poora data db kehlata hai
+ek app mein variety of data hota hai par poora data hota app ka hi hai, pr us data ka sub category kehlata hai collection
+collection matlb ki bola users ka data , ek user par baat kri to hua doucument
+
+
+install mongoDB
+install mongoosejs
+require and setup
