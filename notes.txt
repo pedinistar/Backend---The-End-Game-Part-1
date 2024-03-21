@@ -10,7 +10,7 @@ steps to use express generator
 1) sabse pehle jivan mein ek bar laptop par install karo globally - npm i express-generator -g
 2) to create new app anywhere:
 3) open cmd move to desktop
-4) create new app:
+4) create new app: by using this cmd
 5) express appname --view=ejs
 6) now use two commands
 7) cd appname
