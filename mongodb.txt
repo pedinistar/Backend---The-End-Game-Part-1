@@ -1,0 +1,6 @@
+mongoDB is a database.
+database jahan par aapke application ka data jidr store hota hai!
+database ke 2 prakar ke hote hain:
+  - relational - sql
+  - non-relational - mongoDB
+
